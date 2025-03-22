@@ -1,4 +1,5 @@
 # 🌍 COVID-19 Data Visualization & Analysis  
+# Project By: [Birva Dave](https://www.linkedin.com/in/birva-dave/)
 
 ## 📌 Project Overview  
 This project explores global COVID-19 trends using SQL for data cleaning and transformation, followed by visualization in Power BI. The dataset includes COVID-19 cases, deaths, and vaccinations, helping derive insights into pandemic trends, vaccination progress, and fatality rates.  
@@ -35,6 +36,4 @@ This project explores global COVID-19 trends using SQL for data cleaning and tra
 ## 📢 Acknowledgments  
 Data sourced from  Our World In Data. Special thanks to data providers for making this analysis possible.  
 
----
 
-Let me know if you need any edits! 🚀  
